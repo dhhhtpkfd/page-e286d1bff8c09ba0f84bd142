@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4d8d31b3ebe01fa91bb05d2a",
+  "owner": "dhhhtpkfd",
+  "repo": "page-e286d1bff8c09ba0f84bd142",
+  "title": "猪の",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e286d1bff8c09ba0f84bd142",
+      "a": "猪の",
+      "b": "机场官网线路发布页",
+      "entity": "猪の",
+      "brand": "猪の",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e01494c7780dd74f2208d28d87f07c96c907d82640f7f4b0dcfce98e4509c156",
+      "content": {
+        "primary_entity": "猪の",
+        "keyword1": "猪の",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，猪の提供海外加速订阅服务，按流量和在线设备数量划分基础版、旗舰版、团队版三档套餐，月付与年付均可选，适合需要稳定跨境访问的轻量用户、游戏玩家与小团队。",
+          "AI_HERO_SUBTITLE": "猪の订阅按需选套餐",
+          "AI_HERO_INTRO": "猪の提供多种海外加速订阅方案，从每月100GB到1000GB流量需求均有对应套餐，支持多设备在线与流媒体、游戏加速等场景，订阅后可用常见客户端导入配置使用。",
+          "AI_VISUAL_TITLE": "猪の套餐与设备选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "年付更省，最高节省近一月",
+          "AI_HIGHLIGHT_3": "多设备同时在线灵活选",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURES_INTRO": "挑选套餐时先看每月流量与同时在线设备数，再结合使用场景和订阅周期。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB适合轻度使用，旗舰版300GB适合日常多设备，团队版1000GB面向高流量需求。",
+          "AI_FEATURE_TITLE_2": "按设备定档位",
+          "AI_FEATURE_TEXT_2": "基础版支持3台设备同时在线，旗舰版5台，团队版20台，按家中手机、电脑、平板数量合理选择。",
+          "AI_FEATURE_TITLE_3": "按周期算成本",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付基础版150元、旗舰版350元、团队版850元，长期使用年付更划算。",
+          "AI_CLIENTS_TITLE": "设备与客户端",
+          "AI_CLIENTS_INTRO": "不同系统可选用相应客户端导入订阅，手机、电脑、路由器等平台按需安装。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版15元每月100GB支持3台设备，旗舰版35元每月300GB支持5台设备并含IPLC专线，团队版85元每月1000GB支持20台设备，年付分别为150元、350元和850元。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "按使用量选好套餐后，确认设备适配要求，再依客户端文档配置订阅。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据每月流量需求和同时在线设备数量，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量、设备数与节点线路说明，确认满足自己的使用场景。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按所用客户端的文档指引导入订阅信息，完成后即可连接使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "猪の套餐怎么选？",
+          "AI_FAQ_ANSWER_1": "先看每月流量和同时在线设备数。轻度使用选基础版100GB、3台设备；日常多设备选旗舰版300GB、5台设备；高流量或多人使用选团队版1000GB、20台设备。",
+          "AI_FAQ_QUESTION_2": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_2": "基础版月付15元，年付150元；旗舰版月付35元，年付350元；团队版月付85元，年付850元。年付相当于多用约一个月，长期使用更合适。",
+          "AI_FAQ_QUESTION_3": "同一订阅能同时登录几台设备？",
+          "AI_FAQ_ANSWER_3": "基础版支持3台设备同时在线，旗舰版5台，团队版20台。超出数量可能导致连接受限，建议按实际设备数量选择对应档位。",
+          "AI_FAQ_QUESTION_4": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "在购买的套餐页面获取订阅信息，然后打开所用客户端，按客户端文档中的订阅导入说明粘贴或扫码添加，保存后选择节点连接即可。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月1000GB流量、支持20台设备，适合小型团队或家庭多设备共享，还支持企业定制路由与专属客户经理服务。",
+          "AI_CLOSING_TITLE": "猪の加速订阅",
+          "AI_CLOSING_TEXT": "按流量与设备数选好套餐，依客户端文档导入订阅即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hnzdt.cn",
+    "host": "hnzdt.cn"
+  },
+  "file_hashes": {
+    "index.html": "723b5e0b08787b798e31a70f01f6099ae3c6e4462654c458ffc7f5a0c5c53a55",
+    "sitemap.xml": "aa5ae6af631038df2ea2113f0dcea63c019f8b8166f55373b1accecbb964e49f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f4e9589a8187d00b9f2791d405d0271b1f2257485689de43edd1fc5b92d9bda7",
+    "robots.txt": "aa6997aaa9114e5747a7b106c494dc7b516dc68d469ed0e6bbf620149afa3ad4",
+    "b0dfa0010e6607b96d23f206b990be0f.txt": "538fcddb1ec105d528dbd8f72da47637dc1a934a82ded2ff42ad1b9492af0cfd"
+  },
+  "revision": "a6193c64d446abb2f2b2e5c317659ac71cd6edf3840bdb9df6321ef9a72c071a"
+}
